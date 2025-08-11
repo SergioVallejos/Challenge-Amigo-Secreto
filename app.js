@@ -11,7 +11,7 @@ function agregarAmigo(){
     }
      else {
         amigos.push(nombreDeAmigo);
-        document.querySelector("#amigo").value;
+        document.querySelector("#amigo").value = "";
 
 }
 }
