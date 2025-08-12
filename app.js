@@ -20,7 +20,7 @@ function agregarAmigo() {
 }
 
 // Función actualizarLista(), recorre el array amigos 
-// y agregua cada nombre como un elemento <li> dentro de una lista HTML.
+// y agrega cada nombre como un elemento <li> dentro de una lista HTML.
 
 function actualizarLista() {
   const lista = document.getElementById('listaAmigos');
@@ -33,4 +33,5 @@ function actualizarLista() {
     lista.appendChild(list);
   }
 }
+
 
