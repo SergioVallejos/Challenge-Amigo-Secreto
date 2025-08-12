@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto 
+# Challenge Amigo Secreto - Alura Latam
 ![gif-Amigo Secreto](https://github.com/user-attachments/assets/0829cdf3-ed74-4ef7-9f86-58c7d5410f54)
 
 # Índice
