@@ -8,7 +8,7 @@ function agregarAmigo() {
   let nombreAmigo = document.querySelector("#amigo").value;
   
   if (nombreAmigo.trim() === "") {
-    alert("Por favor, ingrese el nombre de un amigo ");
+    alert("Por favor, ingrese el nombre de un amigo.");
     return;
   }
   
@@ -35,12 +35,11 @@ function actualizarLista() {
 }
 
 // Función sortearAmigo(): Selecciona de manera aleatoria uno de los nombres almacenados en el array amigos. 
-
 function sortearAmigo() {
 
   if (amigos.length === 0) {
 
-    alert("No hay ningun amigo para sortear, por favor ingrese un nombre");
+    alert("No hay ningún amigo para sortear. Por favor, ingrese un nombre.");
 
     return;
   }
@@ -51,5 +50,5 @@ function sortearAmigo() {
 
   let resultado = document.getElementById("resultado");
 
-  resultado.innerHTML = `<li> El amigo secreto sorteado es: ${amigoSorteado}</li>`;
+  resultado.innerHTML = `<li> El amigo sorteado es: ${amigoSorteado}</li>`;
 }
