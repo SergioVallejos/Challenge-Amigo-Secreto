@@ -58,6 +58,12 @@ Esta función se encarga de elegir aleatoriamente a uno de los nombres que se ha
 
 <img width="1893" height="869" alt="Sorteo del amigo secreto" src="https://github.com/user-attachments/assets/6125904d-3dca-4737-861c-56dbbe8beeef" /> ..
 
+
+**Acceso al proyecto.**
+
+[<sub>**Challenge Amigo Secreto**</sub>](https://sergiovallejos.github.io/Challenge-Amigo-Secreto)
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 ## Autor 🧑🏻
 [<img src="https://avatars.githubusercontent.com/u/223773965?s=400u=1a819c5cc3809d277ce34102ea702152645009dbv=4" width=115><br><sub>Sergio Vallejos</sub>](https://github.com/SergioVallejos)
