@@ -37,9 +37,9 @@ Esta función se encarga de elegir aleatoriamente a uno de los nombres que se ha
 
 
 
-**Alerta solicitando que se ingrese el nombre de un amigo en el caso de haber ingresado el un string vacio.**
+**Alerta solicitando que se ingrese el nombre de un amigo en el caso de haber ingresado un string vacio.**
 
-<img width="1919" height="894" alt="alerta solicitando que se ingrese un nombre" src="https://github.com/user-attachments/assets/bfebdec4-e0c5-4079-826b-fb7051335d35" /> ..
+ <img width="1917" height="946" alt="alerta solicitando que se ingrese un nombre de un amigo" src="https://github.com/user-attachments/assets/17690a71-e869-409b-895a-dad8aa0bb030" /> ..
 
 
 
@@ -50,7 +50,8 @@ Esta función se encarga de elegir aleatoriamente a uno de los nombres que se ha
 
 **Alerta en caso de cliquear el botón "Sortear amigo" y no haber ingresado ningun nombre.**
 
-<img width="1919" height="895" alt="Alerta advirtiendo que no hay amigos para sortear" src="https://github.com/user-attachments/assets/dad8a903-3c88-4423-9012-7dd33a45a25a" /> ..
+<img width="1919" height="947" alt="Alerta advirtiendo que no hay amigos para sortear" src="https://github.com/user-attachments/assets/512dadef-ee89-4218-8c6e-865dcf9e934c" /> ..
+
 
 
 **Finalmente al dar click en el boton "sortear amigo" se eligira un nombre aleatorio el cual sera el "amigo secreto".**
